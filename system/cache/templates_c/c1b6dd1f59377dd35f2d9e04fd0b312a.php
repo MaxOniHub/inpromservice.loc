@@ -1,0 +1,1 @@
+<ul><?php if(isset($wrapper)){ echo $wrapper; } ?></ul><?php $mabilis_ttl=1460569947; $mabilis_last_modified=1390385002; ///home/u14026/public_html/inpromservice.com.ua/templates/newLevel/left_menu/level_1/container.tpl ?>

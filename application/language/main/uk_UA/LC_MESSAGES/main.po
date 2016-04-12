@@ -1,0 +1,811 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-23 12:47+0200\n"
+"PO-Revision-Date: 2014-01-23 12:47+0200\n"
+"Last-Translator:  \n"
+"Language-Team:  \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;lang\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../../../../../application/core\n"
+"X-Poedit-SearchPath-2: ../../../../../application/errors\n"
+"X-Poedit-SearchPath-3: ../../../../../application/helpers\n"
+"X-Poedit-SearchPath-4: ../../../../../application/libraries\n"
+"X-Poedit-SearchPath-5: ../../../../../application/modules/shop/classes\n"
+"X-Poedit-SearchPath-6: ../../../../../application/modules/shop/helpers\n"
+"X-Poedit-SearchPath-7: ../../../../../system/language/form_validation\n"
+"X-Poedit-SearchPath-8: ../../../../../system/language/email_lang\n"
+"X-Poedit-SearchPath-9: ../../../../../system/language/upload\n"
+"X-Poedit-SearchPath-10: ../../../../../system/libraries\n"
+"X-Poedit-SearchPath-11: ../../../../../templates/administrator/js/jquery-validate\n"
+
+#: ./system/language/form_validation/form_validation.php:33
+msgid "Order view"
+msgstr "Перегляд замовлення"
+
+#: ./system/language/form_validation/form_validation.php:32
+msgid "Cart"
+msgstr "Кошик"
+
+#: ./application/libraries/DX_Auth.php:1153
+msgid "auth incorrect password"
+msgstr "auth неправильний пароль"
+
+#: ./system/language/upload/upload_validation.php:14
+msgid "upload_unable_to_write_file"
+msgstr "upload_unable_to_write_file"
+
+#: ./system/language/upload/upload_validation.php:16
+msgid "upload_no_file_selected"
+msgstr "upload_no_file_selected"
+
+#: ./system/language/upload/upload_validation.php:18
+msgid "upload_invalid_filesize"
+msgstr "upload_invalid_filesize"
+
+#: ./system/language/upload/upload_validation.php:19
+msgid "upload_invalid_dimensions"
+msgstr "upload_invalid_dimensions"
+
+#: ./system/language/upload/upload_validation.php:21
+msgid "upload_no_filepath"
+msgstr "upload_no_filepath"
+
+#: ./system/language/upload/upload_validation.php:22
+msgid "upload_no_file_types"
+msgstr "upload_no_file_types"
+
+#: ./system/language/upload/upload_validation.php:23
+msgid "upload_bad_filename"
+msgstr "upload_bad_filename"
+
+#: ./application/modules/shop/classes/PaymentSystems/WebMoney/WebMoneySystem.php:174
+msgid "Secret Key:"
+msgstr "Секретний Ключ:"
+
+#: ./application/modules/shop/classes/PaymentSystems/PrivateBank/PrivateBankSystem.php:159
+#: ./application/modules/shop/classes/PaymentSystems/PrivateBank/PrivateBankSystem.php:166
+#: ./application/modules/shop/classes/PaymentSystems/PrivateBank/PrivateBankSystem.php:173
+#: ./application/modules/shop/classes/PaymentSystems/WebMoney/WebMoneySystem.php:167
+msgid "Trick seller to which the customer has to make a payment. Format - letter and 12 digits."
+msgstr "Хитрість продавця, за яким покупець повинен здійснити оплату. Формат - лист і 12 цифр."
+
+#: ./system/language/form_validation/form_validation.php:31
+msgid "User profile successfully changed"
+msgstr "Профіль користувача успішно змінено"
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:9
+msgid "Enter a valid email address."
+msgstr "Введіть дійсну адресу електронної пошти."
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:7
+msgid "This field is required"
+msgstr "Це поле обов'язкове для заповнення"
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:8
+msgid "Please fix this field."
+msgstr "Будь ласка, виправте це поле."
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:10
+msgid "Please enter a valid URL."
+msgstr "Будь ласка, введіть правильний URL."
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:11
+msgid "Please enter a valid date."
+msgstr "Будь ласка, введіть правильну дату."
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:12
+msgid "Please enter a valid date (ISO)."
+msgstr "Будь ласка, введіть правильну дату (ISO)."
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:13
+msgid "Please enter a valid number."
+msgstr "Будь ласка, введіть правильний номер."
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:14
+msgid "Please enter only digits."
+msgstr "Будь ласка, введіть тільки цифри."
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:15
+msgid "Please enter a valid credit card number."
+msgstr "Будь ласка, введіть правильний номер кредитної картки."
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:16
+msgid "Please enter the same value again."
+msgstr "Будь ласка, введіть значення ще раз."
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:17
+msgid "Please enter a value with a valid extension."
+msgstr "Будь ласка, введіть значення з правильним розширенням."
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:18
+msgid "Please enter no more than {0} characters."
+msgstr "Будь ласка, введіть не більше {0} символів."
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:19
+msgid "Please enter at least {0} characters."
+msgstr "Будь ласка, введіть принаймні, {0} символів."
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:20
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Будь ласка, введіть значення від {0} до {1} символів."
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:21
+msgid "Please enter a value between {0} and {1}."
+msgstr "Будь ласка, введіть значення від {0} до {1}."
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:22
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Будь ласка, введіть значення менше або рівне {0}."
+
+#: ./templates/administrator/js/jquery-validate/jquery.validate.i18n.js:23
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Будь ласка, введіть значення більше або рівне {0}."
+
+#: ./application/libraries/BaseAdminController.php:19
+#: ./application/libraries/gettext_php/Gettext_extension.php:44
+#: ./application/libraries/gettext_php/Gettext_extension.php:49
+msgid "To improve performance set php_gettext.dll extension"
+msgstr "Для підвищення ефективності php_gettext.dll розширення"
+
+#: ./application/libraries/BaseAdminController.php:19
+#: ./application/libraries/gettext_php/Gettext_extension.php:44
+#: ./application/libraries/gettext_php/Gettext_extension.php:49
+msgid "Advice"
+msgstr "Поради"
+
+#: ./application/helpers/category_helper.php:86
+msgid "No category"
+msgstr "Без категорії"
+
+#: ./application/helpers/javascript_helper.php:20
+msgid "Message"
+msgstr "Повідомлення"
+
+#: ./application/helpers/javascript_helper.php:22
+msgid "Error"
+msgstr "Помилка"
+
+#: ./application/helpers/javascript_helper.php:25
+msgid "Success"
+msgstr "Успіх"
+
+#: ./application/helpers/javascript_helper.php:29
+msgid "Requests to the database"
+msgstr "Запити до бази даних"
+
+#: ./application/helpers/javascript_helper.php:47
+msgid "Redirecting"
+msgstr "Перенаправлення"
+
+#: ./application/helpers/rules_helper.php:45
+msgid "No rights for"
+msgstr "Немає прав для"
+
+#: ./application/helpers/rules_helper.php:57
+msgid "Error checking permissions"
+msgstr "Помилка перевірки дозволів"
+
+#: ./application/helpers/rules_helper.php:87
+msgid "Operation panel"
+msgstr "Панель управління"
+
+#: ./application/helpers/rules_helper.php:88
+msgid "Languages"
+msgstr "Мови"
+
+#: ./application/helpers/rules_helper.php:89
+msgid "Cache"
+msgstr "Кеш"
+
+#: ./application/helpers/rules_helper.php:90
+msgid "Pages"
+msgstr "Сторінок"
+
+#: ./application/helpers/rules_helper.php:91
+msgid "Categories"
+msgstr "Категорії"
+
+#: ./application/helpers/rules_helper.php:92
+msgid "Modules"
+msgstr "Модулі"
+
+#: ./application/helpers/rules_helper.php:93
+msgid "Widgets"
+msgstr "Віджети"
+
+#: ./application/helpers/rules_helper.php:94
+msgid "Menu"
+msgstr "Меню"
+
+#: ./application/helpers/rules_helper.php:95
+msgid "Members"
+msgstr "Члени"
+
+#: ./application/helpers/rules_helper.php:96
+msgid "Group"
+msgstr "Групи"
+
+#: ./application/helpers/rules_helper.php:97
+msgid "Logs"
+msgstr "Журнали"
+
+#: ./application/helpers/rules_helper.php:98
+msgid "Backup copying"
+msgstr "Резервне копіювання"
+
+#: ./application/helpers/rules_helper.php:99
+msgid "File Editor"
+msgstr "Редактор Файлів"
+
+#: ./application/helpers/rules_helper.php:113
+msgid "Access Control Panel"
+msgstr "Доступ До Панелі Управління"
+
+#: ./application/helpers/rules_helper.php:114
+msgid "System update"
+msgstr "Оновлення системи"
+
+#: ./application/helpers/rules_helper.php:115
+msgid "Find pages in the control panel"
+msgstr "Знайти сторінки в панель управління"
+
+#: ./application/helpers/rules_helper.php:116
+msgid "Creating a language"
+msgstr "Створення мови"
+
+#: ./application/helpers/rules_helper.php:117
+msgid "Changing the language"
+msgstr "Зміна мови"
+
+#: ./application/helpers/rules_helper.php:118
+msgid "Remove languages"
+msgstr "Видалення мов"
+
+#: ./application/helpers/rules_helper.php:119
+msgid "Changing site settings"
+msgstr "Зміни налаштувань сайту"
+
+#: ./application/helpers/rules_helper.php:120
+msgid "Clearing the cache"
+msgstr "Очищення кешу"
+
+#: ./application/helpers/rules_helper.php:121
+msgid "Creating pages"
+msgstr "Створення сторінок"
+
+#: ./application/helpers/rules_helper.php:122
+msgid "Editing pages"
+msgstr "Редагування сторінок"
+
+#: ./application/helpers/rules_helper.php:123
+msgid "Delete pages"
+msgstr "Видалення сторінок"
+
+#: ./application/helpers/rules_helper.php:124
+msgid "Creating categories"
+msgstr "Створення категорії"
+
+#: ./application/helpers/rules_helper.php:125
+msgid "Edit Categories"
+msgstr "Редагування Категорій"
+
+#: ./application/helpers/rules_helper.php:126
+msgid "Category delete"
+msgstr "Видалення категорії"
+
+#: ./application/helpers/rules_helper.php:127
+msgid "Install Modules"
+msgstr "Встановити Модулі"
+
+#: ./application/helpers/rules_helper.php:128
+msgid "Removing Modules"
+msgstr "Видалення Модулів"
+
+#: ./application/helpers/rules_helper.php:129
+msgid "Administration module"
+msgstr "Модуль адміністрування"
+
+#: ./application/helpers/rules_helper.php:130
+msgid "Creating widgets"
+msgstr "Створення віджетів"
+
+#: ./application/helpers/rules_helper.php:131
+msgid "Removing widgets"
+msgstr "Видалення віджетів"
+
+#: ./application/helpers/rules_helper.php:132
+msgid "Access to the widget settings"
+msgstr "Доступ для налаштування віджета"
+
+#: ./application/helpers/rules_helper.php:133
+msgid "Create a menu"
+msgstr "Створення меню"
+
+#: ./application/helpers/rules_helper.php:134
+msgid "Edit menu"
+msgstr "Редагування меню"
+
+#: ./application/helpers/rules_helper.php:135
+msgid "Menu deleting"
+msgstr "Меню видалення"
+
+#: ./application/helpers/rules_helper.php:136
+msgid "Create users of their group"
+msgstr "Створювати користувачів, групи"
+
+#: ./application/helpers/rules_helper.php:137
+msgid "Create users of all groups"
+msgstr "Створити користувачів всіх груп"
+
+#: ./application/helpers/rules_helper.php:138
+msgid "Edit Users"
+msgstr "Редагування Облікових Записів Користувачів"
+
+#: ./application/helpers/rules_helper.php:139
+msgid "Remove Users"
+msgstr "Видалення Користувачів"
+
+#: ./application/helpers/rules_helper.php:140
+msgid "Viewing member"
+msgstr "Перегляд член"
+
+#: ./application/helpers/rules_helper.php:141
+msgid "Creating Groups"
+msgstr "Створення Груп"
+
+#: ./application/helpers/rules_helper.php:142
+msgid "Editing Groups"
+msgstr "Редагування Групи"
+
+#: ./application/helpers/rules_helper.php:143
+msgid "Deleting Groups"
+msgstr "Видалення Груп"
+
+#: ./application/helpers/rules_helper.php:144
+msgid "View Log"
+msgstr "Перегляд Журналу"
+
+#: ./application/helpers/rules_helper.php:145
+msgid "Backing up"
+msgstr "Резервне копіювання"
+
+#: ./application/helpers/rules_helper.php:146
+msgid "Access to the file editor"
+msgstr "Доступ до файлу редактора"
+
+#: ./application/helpers/rules_helper.php:147
+msgid "Download files"
+msgstr "Завантажити файли"
+
+#: ./application/helpers/rules_helper.php:148
+msgid "Editing Files"
+msgstr "Редагування Файлів"
+
+#: ./application/helpers/rules_helper.php:149
+msgid "Edit Folders"
+msgstr "Змінити Папки"
+
+#: ./application/libraries/DX_Auth.php:813
+msgid "auth login incorrect password"
+msgstr "auth login incorrect password"
+
+#: ./application/libraries/DX_Auth.php:820
+msgid "auth not activated"
+msgstr "auth не активований"
+
+#: ./application/libraries/DX_Auth.php:825
+msgid "auth login username not exist"
+msgstr "auth login користувача не існує"
+
+#: ./application/libraries/DX_Auth.php:875
+#: ./application/libraries/DX_Auth.php:906
+msgid "auth activate subject"
+msgstr "auth активувати тему"
+
+#: ./application/libraries/DX_Auth.php:921
+msgid "auth account subject"
+msgstr "auth рахунку при"
+
+#: ./application/libraries/DX_Auth.php:990
+msgid "auth forgot password subject"
+msgstr "auth забули пароль тему"
+
+#: ./application/libraries/DX_Auth.php:1012
+msgid "auth request sent"
+msgstr "auth запит відправлено"
+
+#: ./application/libraries/DX_Auth.php:1015
+msgid "auth username or email not exist"
+msgstr "auth користувача або адресу електронної пошти не існує"
+
+#: ./application/libraries/DX_Auth.php:1121
+msgid "auth incorrect old password"
+msgstr "auth старий пароль невірний"
+
+#: ./application/libraries/DX_Auth.php:1232
+#: ./application/libraries/DX_Auth.php:1237
+#: ./application/libraries/DX_Auth.php:1240
+msgid "Improper protection code"
+msgstr "Неправильного коду протекції"
+
+#: ./application/libraries/Permitions.php:481
+#: ./application/libraries/Permitions.php:552
+#: ./application/libraries/Permitions.php:615
+#: ./application/libraries/Permitions.php:798
+msgid "Changes have been saved"
+msgstr "Зміни були збережені"
+
+#: ./application/libraries/Permitions.php:585
+msgid "Role not found"
+msgstr "Роль не знайдено"
+
+#: ./application/libraries/Permitions.php:749
+msgid "Privilege created"
+msgstr "Привілей створений"
+
+#: ./application/libraries/Permitions.php:787
+msgid "The privilege is not found"
+msgstr "Привілей не знайдено"
+
+#: ./application/modules/shop/classes/OschadBankInvoiceSystem.php:274
+msgid "Recipient"
+msgstr "Одержувач"
+
+#: ./application/modules/shop/classes/OschadBankInvoiceSystem.php:281
+msgid "Identifier code"
+msgstr "Ідентифікаційний код"
+
+#: ./application/modules/shop/classes/OschadBankInvoiceSystem.php:284
+msgid "Integer. The maximum length of 10 characters."
+msgstr "Integer. Максимальну довжину 10 символів."
+
+#: ./application/modules/shop/classes/OschadBankInvoiceSystem.php:289
+msgid "Current account"
+msgstr "Поточний рахунок"
+
+#: ./application/modules/shop/classes/OschadBankInvoiceSystem.php:292
+msgid "Integer. The maximum length of 14 characters."
+msgstr "Integer. Максимальна довжина 14 символів."
+
+#: ./application/modules/shop/classes/OschadBankInvoiceSystem.php:297
+msgid "Bank MFI"
+msgstr "Банк МФО"
+
+#: ./application/modules/shop/classes/OschadBankInvoiceSystem.php:300
+msgid "Integer. The maximum length of 6 characters."
+msgstr "Integer. Максимальна довжина 6 символів."
+
+#: ./application/modules/shop/classes/OschadBankInvoiceSystem.php:306
+msgid "Money sign"
+msgstr "Гроші знака"
+
+#: ./application/modules/shop/classes/OschadBankInvoiceSystem.php:309
+msgid "For example: rub"
+msgstr "Наприклад: крб."
+
+#: ./application/modules/shop/classes/ShopAdminController.php:58
+#: ./application/modules/shop/classes/ShopAdminController.php:59
+msgid "Translated field"
+msgstr "У перекладі області"
+
+#: ./application/modules/shop/classes/Search/BaseSearch.php:243
+msgid "All result"
+msgstr "Всі результаті"
+
+#: ./application/modules/shop/classes/PaymentSystems/SberBankInvoice/SberBankInvoiceSystem.php:216
+#: ./application/modules/shop/classes/PaymentSystems/YandexMoney/YandexMoneySystem.php:119
+msgid "Recipient account"
+msgstr "Рахунок отримувача"
+
+#: ./application/modules/shop/classes/PaymentSystems/LiqPay/LiqPaySystem.php:145
+#: ./application/modules/shop/classes/PaymentSystems/Robokassa/RobokassaSystem.php:150
+#: ./application/modules/shop/classes/PaymentSystems/PayPal/PayPalSystem.php:154
+#: ./application/modules/shop/classes/PaymentSystems/QiWi/QiWiSystem.php:129
+#: ./application/modules/shop/classes/PaymentSystems/YandexMoney/YandexMoneySystem.php:125
+msgid "Merchant settings"
+msgstr "Купець налаштування"
+
+#: ./application/modules/shop/classes/PaymentSystems/LiqPay/LiqPaySystem.php:149
+#: ./application/modules/shop/classes/PaymentSystems/Robokassa/RobokassaSystem.php:155
+#: ./application/modules/shop/classes/PaymentSystems/PayPal/PayPalSystem.php:158
+#: ./application/modules/shop/classes/PaymentSystems/QiWi/QiWiSystem.php:133
+#: ./application/modules/shop/classes/PaymentSystems/YandexMoney/YandexMoneySystem.php:129
+msgid "The method of sending data for all requests: GET"
+msgstr "Спосіб надсилання даних для всіх запитів: ОТРИМАТИ"
+
+#: ./application/modules/shop/classes/PaymentSystems/PayPal/PayPalSystem.php:142
+msgid "E-mail"
+msgstr "E-mail"
+
+#: ./application/modules/shop/classes/PaymentSystems/PayPal/PayPalSystem.php:148
+msgid "Information about transaction"
+msgstr "Інформація про транзакції"
+
+#: ./application/modules/shop/classes/PaymentSystems/Robokassa/RobokassaSystem.php:128
+msgid "Login"
+msgstr "Логін"
+
+#: ./application/modules/shop/classes/Profile/BaseProfile.php:106
+#: ./application/modules/shop/classes/Profile/BaseProfile.php:113
+#: ./application/modules/shop/classes/Profile/BaseProfile.php:115
+#: ./application/modules/shop/classes/PaymentSystems/Robokassa/RobokassaSystem.php:135
+#: ./application/modules/shop/classes/PaymentSystems/Robokassa/RobokassaSystem.php:142
+msgid "Password"
+msgstr "Пароль"
+
+#: ./application/modules/shop/classes/PaymentSystems/LiqPay/LiqPaySystem.php:133
+#: ./application/modules/shop/classes/PaymentSystems/PrivateBank/PrivateBankSystem.php:156
+msgid "Merchant id"
+msgstr "Merchant id"
+
+#: ./application/modules/shop/classes/PaymentSystems/PrivateBank/PrivateBankSystem.php:163
+msgid "Merchant password"
+msgstr "Купець пароль"
+
+#: ./application/modules/shop/classes/PaymentSystems/WebMoney/WebMoneySystem.php:164
+msgid "Trick seller"
+msgstr "Хитрість продавця"
+
+#: ./application/modules/shop/classes/PaymentSystems/QiWi/QiWiSystem.php:117
+msgid "Account number"
+msgstr "Номер рахунку"
+
+#: ./application/modules/shop/classes/PaymentSystems/QiWi/QiWiSystem.php:123
+msgid "The lifetime of the account"
+msgstr "Час життя облікового запису"
+
+#: ./application/modules/shop/classes/PaymentSystems/LiqPay/LiqPaySystem.php:139
+msgid "Signature"
+msgstr "Підпис"
+
+#: ./application/modules/shop/classes/PaymentSystems/SberBankInvoice/SberBankInvoiceSystem.php:195
+msgid "Name of recipient"
+msgstr "Ім'я отримувача"
+
+#: ./application/modules/shop/classes/PaymentSystems/SberBankInvoice/SberBankInvoiceSystem.php:202
+msgid "Recipient bank"
+msgstr "Банк одержувача"
+
+#: ./application/modules/shop/classes/PaymentSystems/SberBankInvoice/SberBankInvoiceSystem.php:209
+msgid "TIN address"
+msgstr "ОЛОВО адреса"
+
+#: ./application/modules/shop/classes/PaymentSystems/SberBankInvoice/SberBankInvoiceSystem.php:224
+msgid "BIC"
+msgstr "БИК"
+
+#: ./application/modules/shop/classes/PaymentSystems/SberBankInvoice/SberBankInvoiceSystem.php:232
+msgid "Correspondent account"
+msgstr "Кореспондентський рахунок"
+
+#: ./application/modules/shop/classes/PaymentSystems/SberBankInvoice/SberBankInvoiceSystem.php:239
+msgid "Bank notes"
+msgstr "Банк Примітки"
+
+#: ./application/modules/shop/classes/PaymentSystems/SberBankInvoice/SberBankInvoiceSystem.php:246
+msgid "Kopeck"
+msgstr "Копійка"
+
+#: ./application/modules/shop/classes/Compare/BaseCompare.php:35
+msgid "Compare list"
+msgstr "Порівняйте список"
+
+#: ./application/modules/shop/classes/Profile/BaseProfile.php:43
+msgid "Profile"
+msgstr "Профіль"
+
+#: ./application/modules/shop/classes/Profile/BaseProfile.php:81
+msgid "Name"
+msgstr "Ім'я"
+
+#: ./application/modules/shop/classes/Profile/BaseProfile.php:82
+msgid "Email"
+msgstr "Адреса"
+
+#: ./application/modules/shop/classes/Profile/BaseProfile.php:83
+msgid "Address"
+msgstr "Адреса"
+
+#: ./application/modules/shop/classes/Profile/BaseProfile.php:84
+msgid "Phone number"
+msgstr "Номер телефону"
+
+#: ./application/modules/shop/classes/Profile/BaseProfile.php:99
+msgid "Data is saved"
+msgstr "Дані зберігаються"
+
+#: ./application/modules/shop/classes/Profile/BaseProfile.php:105
+msgid "Old password"
+msgstr "Старий пароль"
+
+#: ./application/modules/shop/classes/Profile/BaseProfile.php:107
+msgid "Confirm password"
+msgstr "Підтвердження пароля"
+
+#: ./application/modules/shop/classes/Profile/BaseProfile.php:113
+msgid "wrong"
+msgstr "неправильний"
+
+#: ./application/modules/shop/classes/Profile/BaseProfile.php:115
+msgid "successfully saved."
+msgstr "успішно збережено."
+
+#: ./application/modules/shop/helpers/shop_helper.php:244
+#: ./application/modules/shop/helpers/shop_helper.php:285
+#: ./application/modules/shop/helpers/shop_helper.php:298
+msgid "Home"
+msgstr "Додому"
+
+#: ./application/modules/shop/helpers/shop_helper.php:448
+#: ./application/modules/shop/helpers/shop_helper.php:467
+msgid "Buy"
+msgstr "Купити"
+
+#: ./application/modules/shop/helpers/shop_helper.php:449
+msgid "Formulation <br/> order"
+msgstr "Формулювання <br/> замовлення"
+
+#: ./application/modules/shop/helpers/shop_helper.php:468
+msgid "Formulation order"
+msgstr "Формулювання замовлення"
+
+#: ./application/modules/shop/helpers/shop_helper.php:469
+msgid "Announce a"
+msgstr "Оголошують"
+
+#: ./system/language/form_validation/form_validation.php:8
+msgid "required"
+msgstr "потрібно"
+
+#: ./system/language/form_validation/form_validation.php:9
+msgid "isset"
+msgstr "ісеть"
+
+#: ./system/language/form_validation/form_validation.php:10
+msgid "valid_email"
+msgstr "valid_email"
+
+#: ./system/language/form_validation/form_validation.php:11
+msgid "valid_emails"
+msgstr "valid_emails"
+
+#: ./system/language/form_validation/form_validation.php:12
+msgid "valid_url"
+msgstr "valid_url"
+
+#: ./system/language/form_validation/form_validation.php:13
+msgid "valid_ip"
+msgstr "valid_ip"
+
+#: ./system/language/form_validation/form_validation.php:14
+msgid "min_length"
+msgstr "min_length"
+
+#: ./system/language/form_validation/form_validation.php:15
+msgid "max_length"
+msgstr "max_length"
+
+#: ./system/language/form_validation/form_validation.php:16
+msgid "exact_length"
+msgstr "exact_length"
+
+#: ./system/language/form_validation/form_validation.php:17
+msgid "alpha"
+msgstr "Альфа"
+
+#: ./system/language/form_validation/form_validation.php:18
+msgid "alpha_numeric"
+msgstr "alpha_numeric"
+
+#: ./system/language/form_validation/form_validation.php:19
+msgid "alpha_dash"
+msgstr "alpha_dash"
+
+#: ./system/language/form_validation/form_validation.php:20
+msgid "numeric"
+msgstr "числовий"
+
+#: ./system/language/form_validation/form_validation.php:21
+msgid "is_numeric"
+msgstr "is_numeric"
+
+#: ./system/language/form_validation/form_validation.php:22
+msgid "integer"
+msgstr "ціле число"
+
+#: ./system/language/form_validation/form_validation.php:23
+msgid "regex_match"
+msgstr "regex_match"
+
+#: ./system/language/form_validation/form_validation.php:24
+msgid "matches"
+msgstr "матчі"
+
+#: ./system/language/form_validation/form_validation.php:25
+msgid "is_unique"
+msgstr "is_unique"
+
+#: ./system/language/form_validation/form_validation.php:26
+msgid "is_natural"
+msgstr "is_natural"
+
+#: ./system/language/form_validation/form_validation.php:27
+msgid "is_natural_no_zero"
+msgstr "is_natural_no_zero"
+
+#: ./system/language/form_validation/form_validation.php:28
+msgid "decimal"
+msgstr "десяткове"
+
+#: ./system/language/form_validation/form_validation.php:29
+msgid "less_than"
+msgstr "less_than"
+
+#: ./system/language/form_validation/form_validation.php:30
+msgid "greater_than"
+msgstr "greater_than"
+
+#: ./system/language/email_lang/email_lang.php:22
+msgid "email_sent"
+msgstr "email_sent"
+
+#: ./system/language/upload/upload_validation.php:7
+#: ./system/language/upload/upload_validation.php:17
+msgid "upload_invalid_filetype"
+msgstr "upload_invalid_filetype"
+
+#: ./system/language/upload/upload_validation.php:9
+msgid "upload_userfile_not_set"
+msgstr "upload_userfile_not_set"
+
+#: ./system/language/upload/upload_validation.php:10
+msgid "upload_file_exceeds_limit"
+msgstr "upload_file_exceeds_limit"
+
+#: ./system/language/upload/upload_validation.php:11
+msgid "upload_file_exceeds_form_limit"
+msgstr "upload_file_exceeds_form_limit"
+
+#: ./system/language/upload/upload_validation.php:12
+msgid "upload_file_partial"
+msgstr "upload_file_partial"
+
+#: ./system/language/upload/upload_validation.php:13
+msgid "upload_no_temp_directory"
+msgstr "upload_no_temp_directory"
+
+#: ./system/language/upload/upload_validation.php:15
+msgid "upload_stopped_by_extension"
+msgstr "upload_stopped_by_extension"
+
+#: ./system/language/upload/upload_validation.php:20
+msgid "upload_destination_error"
+msgstr "upload_destination_error"
+
+#: ./system/language/upload/upload_validation.php:24
+msgid "upload_not_writable"
+msgstr "upload_not_writable"
+
+#: ./system/libraries/Pagination.php:74
+msgid "First"
+msgstr "Перший"
+
+#: ./system/libraries/Pagination.php:75
+msgid "Last"
+msgstr "Останні"
+
+#: ./system/libraries/Migration.php:223
+msgid "migration_none_found"
+msgstr "migration_none_found"
+

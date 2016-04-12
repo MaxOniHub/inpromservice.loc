@@ -1,0 +1,61 @@
+[01-Feb-2016 13:01:36 Europe/Kiev] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/u14026/public_html/inpromservice.com.ua/application/modules/sitemap/sitemap.php on line 320
+[11-Mar-2016 15:07:45 Europe/Kiev] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Internal Server Error in /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php:84
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://upd.imag...', '', 1, 0)
+#1 /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php(84): SoapClient->__call('getStatus', Array)
+#2 /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php(84): SoapClient->getStatus('www.inpromservi...', 'BUILD_ID', 'IMAGECMS_NUMBER')
+#3 /home/u14026/public_html/inpromservice.com.ua/application/modules/admin/sys_update.php(33): Update->getStatus()
+#4 [internal function]: Sys_update->index()
+#5 /home/u14026/public_html/inpromservice.com.ua/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/u14026/public_html/inpromservice.com.ua/index.php(213): require_once('/home/u14026/pu...')
+#7 {main}
+  thrown in /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php on line 84
+[11-Mar-2016 15:07:45 Europe/Kiev] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Internal Server Error in /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php:84
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://upd.imag...', '', 1, 0)
+#1 /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php(84): SoapClient->__call('getStatus', Array)
+#2 /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php(84): SoapClient->getStatus('www.inpromservi...', 'BUILD_ID', 'IMAGECMS_NUMBER')
+#3 /home/u14026/public_html/inpromservice.com.ua/application/modules/admin/sys_update.php(33): Update->getStatus()
+#4 [internal function]: Sys_update->index()
+#5 /home/u14026/public_html/inpromservice.com.ua/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/u14026/public_html/inpromservice.com.ua/index.php(213): require_once('/home/u14026/pu...')
+#7 {main}
+  thrown in /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php on line 84
+[11-Mar-2016 15:57:08 Europe/Kiev] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Internal Server Error in /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php:84
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://upd.imag...', '', 1, 0)
+#1 /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php(84): SoapClient->__call('getStatus', Array)
+#2 /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php(84): SoapClient->getStatus('www.inpromservi...', 'BUILD_ID', 'IMAGECMS_NUMBER')
+#3 /home/u14026/public_html/inpromservice.com.ua/application/modules/admin/sys_update.php(33): Update->getStatus()
+#4 [internal function]: Sys_update->index()
+#5 /home/u14026/public_html/inpromservice.com.ua/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/u14026/public_html/inpromservice.com.ua/index.php(213): require_once('/home/u14026/pu...')
+#7 {main}
+  thrown in /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php on line 84
+[11-Mar-2016 15:57:09 Europe/Kiev] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Internal Server Error in /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php:84
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://upd.imag...', '', 1, 0)
+#1 /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php(84): SoapClient->__call('getStatus', Array)
+#2 /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php(84): SoapClient->getStatus('www.inpromservi...', 'BUILD_ID', 'IMAGECMS_NUMBER')
+#3 /home/u14026/public_html/inpromservice.com.ua/application/modules/admin/sys_update.php(33): Update->getStatus()
+#4 [internal function]: Sys_update->index()
+#5 /home/u14026/public_html/inpromservice.com.ua/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/u14026/public_html/inpromservice.com.ua/index.php(213): require_once('/home/u14026/pu...')
+#7 {main}
+  thrown in /home/u14026/public_html/inpromservice.com.ua/application/libraries/Update.php on line 84
+[31-Mar-2016 01:26:44 Europe/Kiev] PHP Fatal error:  Call to undefined method Banners::getByGroup() in /home/u14026/public_html/inpromservice.com.ua/system/cache/templates_c/06a4babbf6e74d2a99c4dc25549f67a0.php on line 24
+[31-Mar-2016 01:26:47 Europe/Kiev] PHP Fatal error:  Call to undefined method Banners::getByGroup() in /home/u14026/public_html/inpromservice.com.ua/system/cache/templates_c/06a4babbf6e74d2a99c4dc25549f67a0.php on line 24
+[31-Mar-2016 01:27:25 Europe/Kiev] PHP Fatal error:  Call to undefined method Banners::getByGroup() in /home/u14026/public_html/inpromservice.com.ua/system/cache/templates_c/06a4babbf6e74d2a99c4dc25549f67a0.php on line 24
+[31-Mar-2016 01:27:26 Europe/Kiev] PHP Fatal error:  Call to undefined method Banners::getByGroup() in /home/u14026/public_html/inpromservice.com.ua/system/cache/templates_c/06a4babbf6e74d2a99c4dc25549f67a0.php on line 24
+[31-Mar-2016 01:28:21 Europe/Kiev] PHP Fatal error:  Call to undefined method Banners::getByGroup() in /home/u14026/public_html/inpromservice.com.ua/system/cache/templates_c/06a4babbf6e74d2a99c4dc25549f67a0.php on line 24
+[31-Mar-2016 01:28:46 Europe/Kiev] PHP Fatal error:  Call to undefined method Banners::getByGroup() in /home/u14026/public_html/inpromservice.com.ua/system/cache/templates_c/06a4babbf6e74d2a99c4dc25549f67a0.php on line 24
+[31-Mar-2016 01:28:48 Europe/Kiev] PHP Fatal error:  Call to undefined method Banners::getByGroup() in /home/u14026/public_html/inpromservice.com.ua/system/cache/templates_c/06a4babbf6e74d2a99c4dc25549f67a0.php on line 24
+[31-Mar-2016 01:28:48 Europe/Kiev] PHP Fatal error:  Call to undefined method Banners::getByGroup() in /home/u14026/public_html/inpromservice.com.ua/system/cache/templates_c/06a4babbf6e74d2a99c4dc25549f67a0.php on line 24
+[31-Mar-2016 01:28:49 Europe/Kiev] PHP Fatal error:  Call to undefined method Banners::getByGroup() in /home/u14026/public_html/inpromservice.com.ua/system/cache/templates_c/06a4babbf6e74d2a99c4dc25549f67a0.php on line 24
+[31-Mar-2016 01:28:49 Europe/Kiev] PHP Fatal error:  Call to undefined method Banners::getByGroup() in /home/u14026/public_html/inpromservice.com.ua/system/cache/templates_c/06a4babbf6e74d2a99c4dc25549f67a0.php on line 24
+[31-Mar-2016 01:29:12 Europe/Kiev] PHP Fatal error:  Call to undefined method Banners::getByGroup() in /home/u14026/public_html/inpromservice.com.ua/system/cache/templates_c/06a4babbf6e74d2a99c4dc25549f67a0.php on line 24
+[31-Mar-2016 01:29:36 Europe/Kiev] PHP Fatal error:  Call to undefined method Banners::getByGroup() in /home/u14026/public_html/inpromservice.com.ua/system/cache/templates_c/06a4babbf6e74d2a99c4dc25549f67a0.php on line 24
+[31-Mar-2016 01:29:38 Europe/Kiev] PHP Fatal error:  Call to undefined method Banners::getByGroup() in /home/u14026/public_html/inpromservice.com.ua/system/cache/templates_c/06a4babbf6e74d2a99c4dc25549f67a0.php on line 24
+[31-Mar-2016 01:29:43 Europe/Kiev] PHP Fatal error:  Call to undefined method Banners::getByGroup() in /home/u14026/public_html/inpromservice.com.ua/system/cache/templates_c/06a4babbf6e74d2a99c4dc25549f67a0.php on line 24
+[01-Apr-2016 22:59:30 Europe/Kiev] PHP Fatal error:  Class 'ShopController' not found in /home/u14026/public_html/inpromservice.com.ua/application/modules/shop/classes/Category/BaseCategory.php on line 7
+[06-Apr-2016 14:09:26 Europe/Kiev] PHP Parse error:  syntax error, unexpected ''$username = $val ? $this->inp' (T_ENCAPSED_AND_WHITESPACE) in /home/u14026/public_html/inpromservice.com.ua/system/cache/hooks.php on line 192

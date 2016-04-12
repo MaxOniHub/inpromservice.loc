@@ -1,0 +1,2 @@
+<li class="active"><span title="<?php if(isset($title)){ echo $title; } ?>"><?php if(isset($title)){ echo $title; } ?></a><?php if(isset($wrapper)){ echo $wrapper; } ?></li>
+<?php $mabilis_ttl=1460574534; $mabilis_last_modified=1390385002; ///home/u14026/public_html/inpromservice.com.ua/templates/newLevel/left_menu/level_1/item_default_active.tpl ?>

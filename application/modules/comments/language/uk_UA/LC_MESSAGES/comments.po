@@ -1,0 +1,449 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-23 01:57+0200\n"
+"PO-Revision-Date: 2014-01-23 01:57+0200\n"
+"Last-Translator:  \n"
+"Language-Team:  \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;lang\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ./application/modules/comments/templates/comments_list.tpl:281
+#: ./application/modules/comments/assets/js/admin.js:29
+msgid "Show answers"
+msgstr "Показати відповіді"
+
+#: ./application/modules/comments/comments.php:241
+msgid "log in, please."
+msgstr "увійдіть, будь ласка."
+
+#: ./application/modules/comments/assets/js/admin.js:21
+msgid "Hide answers"
+msgstr "Приховати відповіді"
+
+#: ./application/modules/comments/templates/recent_product_comments.tpl:1
+msgid "Recent reviews"
+msgstr "Останні огляди"
+
+#: ./application/modules/comments/commentsapi.php:173
+#: ./application/modules/comments/commentsapi.php:544
+#: ./application/modules/comments/commentsapi.php:548
+msgid "reviews"
+msgstr "відгуки"
+
+#: ./application/modules/comments/templates/comments_list.tpl:5
+#: ./application/modules/comments/module_info.php:4
+msgid "Comments"
+msgstr "Коментарі"
+
+#: ./application/modules/comments/templates/comments_list.tpl:16
+#: ./application/modules/comments/templates/comments_list.tpl:102
+#: ./application/modules/comments/templates/comments_list.tpl:200
+#: ./application/modules/comments/templates/comments_list.tpl:291
+msgid "Into spam"
+msgstr "У спаму"
+
+#: ./application/modules/comments/templates/comments_list.tpl:17
+msgid "In the waiting"
+msgstr "В очікуванні"
+
+#: ./application/modules/comments/templates/comments_list.tpl:18
+#: ./application/modules/comments/templates/comments_list.tpl:99
+#: ./application/modules/comments/templates/comments_list.tpl:197
+#: ./application/modules/comments/templates/comments_list.tpl:289
+msgid "In approve"
+msgstr "Затвердити у"
+
+#: ./application/modules/comments/templates/recent_product_comments_form.tpl:20
+#: ./application/modules/comments/templates/comments_list.tpl:22
+#: ./application/modules/comments/templates/edit.tpl:23
+#: ./application/modules/comments/templates/recent_comments_form.tpl:20
+msgid "Settings"
+msgstr "Параметри"
+
+#: ./application/modules/comments/templates/comments_list.tpl:71
+msgid "Mark"
+msgstr "Марк"
+
+#: ./application/modules/comments/templates/comments_list.tpl:73
+msgid "User Email"
+msgstr "E-Mail Користувача"
+
+#: ./application/modules/comments/templates/recent_product_comments_form.tpl:10
+#: ./application/modules/comments/templates/settings.tpl:10
+#: ./application/modules/comments/templates/comments_list.tpl:95
+#: ./application/modules/comments/templates/comments_list.tpl:191
+#: ./application/modules/comments/templates/comments_list.tpl:287
+#: ./application/modules/comments/templates/edit.tpl:12
+#: ./application/modules/comments/templates/recent_comments_form.tpl:10
+msgid "Save"
+msgstr "Зберегти"
+
+#: ./application/modules/comments/templates/comments_list.tpl:97
+#: ./application/modules/comments/templates/comments_list.tpl:194
+#: ./application/modules/comments/templates/comments_list.tpl:288
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: ./application/modules/comments/templates/comments_list.tpl:104
+msgid "Waiting moderation"
+msgstr "Очікують модерації"
+
+#: ./application/modules/comments/templates/comments_list.tpl:21
+#: ./application/modules/comments/templates/comments_list.tpl:106
+#: ./application/modules/comments/templates/comments_list.tpl:204
+#: ./application/modules/comments/templates/comments_list.tpl:295
+msgid "Delete"
+msgstr "Видалити"
+
+#: ./application/modules/comments/templates/comments_list.tpl:202
+#: ./application/modules/comments/templates/comments_list.tpl:293
+msgid "Wait moderation"
+msgstr "Чекати модерації"
+
+#: ./application/modules/comments/templates/edit.tpl:6
+msgid "Comment editing"
+msgstr "Редагування коментаря"
+
+#: ./application/modules/comments/templates/edit.tpl:11
+msgid "Return"
+msgstr "Повернення"
+
+#: ./application/modules/comments/templates/edit.tpl:13
+msgid "Create and exit"
+msgstr "Створення і вихід"
+
+#: ./application/modules/comments/assets/comments_api.tpl:3
+msgid "Only authorized users can leave comments."
+msgstr "Тільки авторизовані користувачі можуть залишати коментарі."
+
+#: ./application/modules/comments/assets/comments_api.tpl:8
+msgid "Customer comments"
+msgstr "Коментарі клієнтів"
+
+#: ./application/modules/comments/assets/comments_api.tpl:28
+#: ./application/modules/comments/assets/comments_api.tpl:163
+msgid "Pluses"
+msgstr "Плюси"
+
+#: ./application/modules/comments/assets/comments_api.tpl:34
+#: ./application/modules/comments/assets/comments_api.tpl:169
+msgid "Minuses"
+msgstr "Мінуси"
+
+#: ./application/modules/comments/assets/comments_api.tpl:45
+msgid "Answer"
+msgstr "Відповідь"
+
+#: ./application/modules/comments/assets/comments_api.tpl:58
+msgid "Like review"
+msgstr "Як огляд"
+
+#: ./application/modules/comments/assets/comments_api.tpl:65
+msgid "Do not like it"
+msgstr "Не подобається"
+
+#: ./application/modules/comments/assets/comments_api.tpl:98
+msgid "Write your comment"
+msgstr "Напишіть свій коментар"
+
+#: ./application/modules/comments/assets/comments_api.tpl:110
+msgid "Your rating"
+msgstr "Ваш рейтинг"
+
+#: ./application/modules/comments/assets/comments_api.tpl:127
+#: ./application/modules/comments/assets/comments_api.tpl:226
+msgid "The comment will be sent for moderation"
+msgstr "Коментар буде надіслано на модерацію"
+
+#: ./application/modules/comments/commentsapi.php:286
+#: ./application/modules/comments/comments.php:269
+#: ./application/modules/comments/assets/comments_api.tpl:134
+#: ./application/modules/comments/assets/comments_api.tpl:210
+msgid "Your name"
+msgstr "Ваше ім'я"
+
+#: ./application/modules/comments/commentsapi.php:285
+#: ./application/modules/comments/comments.php:268
+#: ./application/modules/comments/assets/comments_api.tpl:140
+#: ./application/modules/comments/assets/comments_api.tpl:216
+msgid "Email"
+msgstr "Адреса"
+
+#: ./application/modules/comments/commentsapi.php:287
+#: ./application/modules/comments/comments.php:270
+#: ./application/modules/comments/assets/comments_api.tpl:147
+msgid "Site"
+msgstr "Сайт"
+
+#: ./application/modules/comments/commentsapi.php:300
+#: ./application/modules/comments/commentsapi.php:302
+#: ./application/modules/comments/comments.php:282
+#: ./application/modules/comments/assets/comments_api.tpl:156
+#: ./application/modules/comments/assets/comments_api.tpl:234
+msgid "Comment"
+msgstr "Коментар"
+
+#: ./application/modules/comments/commentsapi.php:294
+#: ./application/modules/comments/commentsapi.php:296
+#: ./application/modules/comments/comments.php:277
+#: ./application/modules/comments/comments.php:279
+#: ./application/modules/comments/assets/comments_api.tpl:177
+msgid "Code protection"
+msgstr "Код захисту"
+
+#: ./application/modules/comments/commentsapi.php:106
+#: ./application/modules/comments/assets/comments_api.tpl:188
+#: ./application/modules/comments/assets/comments_api.tpl:243
+msgid "Leave comment"
+msgstr "Залишити коментар"
+
+#: ./application/modules/comments/templates/recent_product_comments_form.tpl:5
+#: ./application/modules/comments/templates/recent_comments_form.tpl:5
+msgid "Widget settings"
+msgstr "Налаштування віджета"
+
+#: ./application/modules/comments/templates/recent_product_comments_form.tpl:9
+#: ./application/modules/comments/templates/recent_comments_form.tpl:9
+msgid "Go back"
+msgstr "Повернутися"
+
+#: ./application/modules/comments/templates/recent_product_comments_form.tpl:11
+#: ./application/modules/comments/templates/recent_comments_form.tpl:11
+msgid "Save and go back"
+msgstr "Зберегти і повернутися"
+
+#: ./application/modules/comments/templates/recent_product_comments_form.tpl:28
+#: ./application/modules/comments/templates/recent_comments_form.tpl:28
+msgid "Number of comments for display"
+msgstr "Кількість коментарів для відображення"
+
+#: ./application/modules/comments/templates/recent_product_comments_form.tpl:34
+#: ./application/modules/comments/templates/recent_comments_form.tpl:34
+msgid "Maximum number of characters"
+msgstr "Максимальна кількість символів"
+
+#: ./application/modules/comments/templates/settings.tpl:5
+msgid "Comment settings"
+msgstr "Коментар налаштування"
+
+#: ./application/modules/comments/templates/settings.tpl:9
+msgid "Back"
+msgstr "Тому"
+
+#: ./application/modules/comments/templates/settings.tpl:19
+msgid "Properties"
+msgstr "Властивості"
+
+#: ./application/modules/comments/templates/settings.tpl:28
+msgid "Maximum comment length"
+msgstr "Максимальна довжина коментаря"
+
+#: ./application/modules/comments/templates/settings.tpl:31
+msgid "O - unlimited comment length"
+msgstr "O - необмежена довжина коментаря"
+
+#: ./application/modules/comments/templates/settings.tpl:35
+msgid "Comment restrictions"
+msgstr "Коментар обмеження"
+
+# �
+#: ./application/modules/comments/templates/settings.tpl:38
+msgid "Comment frequency restriction per minute . O - check off"
+msgstr "Коментар частотні обмеження в хвилину . O - check off"
+
+#: ./application/modules/comments/templates/settings.tpl:48
+msgid "Forbid comments for unregistered users"
+msgstr "Заборонити коментарі для незареєстрованих користувачів"
+
+#: ./application/modules/comments/templates/settings.tpl:59
+msgid "Enable administrator comments approval"
+msgstr "Дозволити коментарі адміністратора затвердження"
+
+#: ./application/modules/comments/templates/settings.tpl:70
+msgid "Use the protection code"
+msgstr "Використовувати код протекції"
+
+#: ./application/modules/comments/templates/comments_list.tpl:12
+msgid "Designate"
+msgstr "Призначити"
+
+#: ./application/modules/comments/templates/comments_list.tpl:27
+msgid "All comments"
+msgstr "Всі коментарі"
+
+#: ./application/modules/comments/templates/comments_list.tpl:34
+msgid "Waiting for moderation"
+msgstr "Очікує модерації"
+
+#: ./application/modules/comments/templates/comments_list.tpl:39
+msgid "Approval"
+msgstr "Твердження"
+
+#: ./application/modules/comments/templates/comments_list.tpl:47
+#: ./application/modules/comments/templates/edit.tpl:55
+msgid "Spam"
+msgstr "Спам"
+
+#: ./application/modules/comments/templates/comments_list.tpl:69
+msgid "ID"
+msgstr "ID"
+
+#: ./application/modules/comments/templates/comments_list.tpl:70
+msgid "Text"
+msgstr "Текст"
+
+#: ./application/modules/comments/templates/comments_list.tpl:72
+msgid "User"
+msgstr "Користувач"
+
+#: ./application/modules/comments/templates/comments_list.tpl:74
+msgid "Page"
+msgstr "Стр."
+
+# �
+#: ./application/modules/comments/templates/comments_list.tpl:361
+msgid "No data has been found"
+msgstr "Дані не знайдені"
+
+#: ./application/modules/comments/templates/edit.tpl:36
+msgid "Author"
+msgstr "Автор"
+
+#: ./application/modules/comments/templates/edit.tpl:43
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: ./application/modules/comments/templates/edit.tpl:50
+msgid "Status"
+msgstr "Статус"
+
+#: ./application/modules/comments/templates/edit.tpl:53
+msgid "Approved"
+msgstr "Затверджені"
+
+#: ./application/modules/comments/templates/edit.tpl:54
+msgid "Pending approval"
+msgstr "В очікуванні затвердження"
+
+#: ./application/modules/comments/templates/edit.tpl:60
+msgid "Contents"
+msgstr "Зміст"
+
+#: ./application/modules/comments/assets/comments_api.tpl:4
+msgid "log in"
+msgstr "увійти в систему"
+
+#: ./application/modules/comments/assets/comments_api.tpl:5
+msgid "please"
+msgstr "будь ласка,"
+
+#: ./application/modules/comments/commentsapi.php:76
+#: ./application/modules/comments/commentsapi.php:146
+#: ./application/modules/comments/comments.php:204
+msgid "Total comments: "
+msgstr "Всього коментарів: "
+
+#: ./application/modules/comments/commentsapi.php:103
+#: ./application/modules/comments/commentsapi.php:104
+msgid "comment"
+msgstr "коментар"
+
+#: ./application/modules/comments/commentsapi.php:105
+#: ./application/modules/comments/commentsapi.php:549
+msgid "comments"
+msgstr "коментарі"
+
+#: ./application/modules/comments/commentsapi.php:172
+#: ./application/modules/comments/commentsapi.php:174
+#: ./application/modules/comments/commentsapi.php:543
+#: ./application/modules/comments/commentsapi.php:545
+#: ./application/modules/comments/commentsapi.php:547
+msgid "review"
+msgstr "огляд"
+
+#: ./application/modules/comments/commentsapi.php:175
+msgid "Leave a comment"
+msgstr "Залишити коментар"
+
+#: ./application/modules/comments/commentsapi.php:275
+msgid "Time for new comment has not yet come"
+msgstr "Час для нових коментарів поки не прийшли"
+
+#: ./application/modules/comments/admin.php:106
+msgid "Next"
+msgstr "Далі"
+
+#: ./application/modules/comments/admin.php:107
+msgid "Prev"
+msgstr "Prev"
+
+#: ./application/modules/comments/admin.php:205
+msgid "Comment successfully updated"
+msgstr "Коментар успішно оновлено"
+
+#: ./application/modules/comments/admin.php:206
+msgid "Message"
+msgstr "Повідомлення"
+
+#: ./application/modules/comments/admin.php:225
+msgid "Success"
+msgstr "Успіх"
+
+#: ./application/modules/comments/admin.php:226
+msgid "Status updated"
+msgstr "Статус оновлюється"
+
+#: ./application/modules/comments/admin.php:248
+msgid "Comment(s) deleted"
+msgstr "Коментар(s) вилучений"
+
+#: ./application/modules/comments/admin.php:307
+msgid "Changes saved"
+msgstr "Збережені зміни"
+
+#: ./application/modules/comments/comments.php:250
+msgid "Commenting on recording is prohibited."
+msgstr "Коментуючи запис заборонена."
+
+#: ./application/modules/comments/comments.php:261
+#, fuzzy
+msgid "Allowed to comment once in %s minutes."
+msgstr "Дозволено прокоментувати один раз у %s хвилин."
+
+#: ./application/modules/comments/comments.php:370
+msgid "Fill text in comment."
+msgstr "Заповнити текст в полі коментар."
+
+#: ./application/modules/comments/module_info.php:5
+msgid "User comments management module"
+msgstr "Модуль керування коментарями користувачів"
+
+#: ./application/modules/comments/comments_widgets.php:82
+msgid "Number of comments"
+msgstr "Кількість коментарів"
+
+#: ./application/modules/comments/comments_widgets.php:83
+#: ./application/modules/comments/comments_widgets.php:152
+msgid "Number of characters"
+msgstr "Кількість символів"
+
+#: ./application/modules/comments/comments_widgets.php:94
+#: ./application/modules/comments/comments_widgets.php:163
+msgid "Settings have been saved"
+msgstr "Настройки були збережені"
+
+#: ./application/modules/comments/comments_widgets.php:151
+msgid "Number of responses"
+msgstr "Кількість відповідей"
+
